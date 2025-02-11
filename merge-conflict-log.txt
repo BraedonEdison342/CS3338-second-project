@@ -1,0 +1,110 @@
+commit fcb2b5b636bd59faf839ac6b0c421070f8bca4b9
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 21:38:35 2025 -0800
+
+    Merge testing
+
+commit a8845dc8a900e46f13aec1c530b177f5b4e4da71
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Mon Feb 10 21:37:11 2025 -0800
+
+    edited the index.html file to include my name, and my personal hobbies and such. On the branch angel
+
+commit 39318cd1b96694b70280940d3c87feead0a92681
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 18:11:48 2025 -0800
+
+    final part before teammates
+
+commit bd996cb3aa62bec1044f52c8c54e0900b68f72d4
+Merge: c93563f 055e480
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 18:07:39 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 055e480fc1a6b21c1c601329f1728c0261566bac
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 18:05:35 2025 -0800
+
+    Index game
+
+commit c93563ffd18f69de7c8d4cda54424240e243b74c
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 18:03:17 2025 -0800
+
+    index
+
+commit d80796b7fdd56b245d0b7d6dddc509a46683e61d
+Merge: 45885b3 0cc5c5a
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 17:59:10 2025 -0800
+
+    Merge branch 'main' of https://github.com/BraedonEdison342/CS3338-second-project
+
+commit 45885b34d57224b7b01b32ee245c7678ebd6b054
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 17:58:47 2025 -0800
+
+     Braedon's readme
+
+commit 18c4afc91eb33612452d2ddbd9ca67a50f5c5375
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 17:58:02 2025 -0800
+
+    Delete README.md
+
+commit 2e1d0437f3c79883a450c2d28714cbe5e5b459d1
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 17:56:54 2025 -0800
+
+    Readme
+
+commit 0cc5c5a8f10d2ee22d521669583286c93d300ddd
+Merge: 1d2bfc0 eadf207
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 17:54:19 2025 -0800
+
+    Merge pull request #1 from BraedonEdison342/info-fill
+    
+    Updated index
+
+commit eadf2075b4d889b6c074e9110332ed0a01b5e2c8
+Author: BraedonEdison342 <134601110+BraedonEdison342@users.noreply.github.com>
+Date:   Mon Feb 10 17:50:19 2025 -0800
+
+    Updated index
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
